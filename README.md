@@ -4,9 +4,9 @@
 Practice space for using the Github Workflow.
 
 Participants:
-Ben Coleman
-Dermot Badman
-Jeffery Eisenhardt
+Ben Coleman - bjcoleman
+Dermot Badman - dbad0210
+Jeffery Eisenhardt - eisenhardtj
 
 ## Setup
 
